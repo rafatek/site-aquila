@@ -38,7 +38,7 @@ export function Header() {
         <Link href="/" className="flex items-center">
           <Image
             src="/images/logo-aquila.png"
-            alt="Aquila Maresia - Corretora de Imóveis"
+            alt="Áquila Barbosa - Corretora de Imóveis"
             width={120}
             height={60}
             className="h-12 w-auto"

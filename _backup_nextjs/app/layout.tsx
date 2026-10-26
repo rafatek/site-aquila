@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AQUILA MARESIA | Corretora de Imóveis - Zona Sul SP",
+  title: "ÁQUILA BARBOSA | Corretora de Imóveis - Zona Sul SP",
   description:
-    "Realize o sonho da casa própria com a AQUILA MARESIA. Simulação gratuita, Minha Casa Minha Vida, FGTS, entrada parcelada. Atendemos Interlagos, Grajaú, Parelheiros e região. CRECI SP 299970.",
+    "Realize o sonho da casa própria com a ÁQUILA BARBOSA. Simulação gratuita, Minha Casa Minha Vida, FGTS, entrada parcelada. Atendemos Interlagos, Grajaú, Parelheiros e região. CRECI SP 299970.",
   keywords: [
     "imóveis zona sul sp",
     "corretora de imóveis",
@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     "grajaú",
     "parelheiros",
   ],
-  authors: [{ name: "AQUILA MARESIA" }],
+  authors: [{ name: "ÁQUILA BARBOSA" }],
   openGraph: {
-    title: "AQUILA MARESIA | Corretora de Imóveis",
+    title: "ÁQUILA BARBOSA | Corretora de Imóveis",
     description: "Realize o sonho da casa própria com simulação gratuita e atendimento humanizado.",
     type: "website",
   },

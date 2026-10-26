@@ -39,7 +39,7 @@ export function SobreSection() {
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <Image
                   src="/images/aquila-profile.png"
-                  alt="Aquila Maresia - Especialista em Imóveis"
+                  alt="Áquila Barbosa - Especialista em Imóveis"
                   width={600}
                   height={700}
                   className="w-full h-auto object-cover"

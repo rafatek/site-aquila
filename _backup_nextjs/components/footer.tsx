@@ -14,7 +14,7 @@ export function Footer() {
             <Link href="/" className="inline-block mb-4">
               <Image
                 src="/images/logo-aquila.png"
-                alt="Aquila Maresia - Corretora de Imóveis"
+                alt="Áquila Barbosa - Corretora de Imóveis"
                 width={140}
                 height={70}
                 className="h-16 w-auto brightness-0 invert"
@@ -100,7 +100,7 @@ export function Footer() {
           </div>
 
           <p className="text-white/50 text-sm text-center">
-            © {currentYear} Aquila Maresia. Todos os direitos reservados. CRECI SP 299970
+            © {currentYear} Áquila Barbosa. Todos os direitos reservados. CRECI SP 299970
           </p>
         </div>
       </div>
